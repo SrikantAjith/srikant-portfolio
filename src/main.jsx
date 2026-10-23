@@ -21,7 +21,7 @@ import {
 import './styles.css';
 
 const email = 'srikantajith16@gmail.com';
-const github = 'https://github.com/srikant-ajith';
+const github = 'https://github.com/SrikantAjith';
 const linkedin = 'https://www.linkedin.com/'; // Replace with your actual LinkedIn profile URL.
 
 const skills = [
